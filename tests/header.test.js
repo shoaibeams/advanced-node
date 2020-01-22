@@ -9,7 +9,7 @@ beforeEach(async () => {
   // of the browser to interact
 
   page = await Page.build()
-  await page.goto('localhost:3000')
+  await page.goto('http://localhost:3000')
   const text = await page.getContentsOf('a.brand-logo')
 
   expect(text).toEqual('Blogster')
