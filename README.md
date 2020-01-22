@@ -1,2 +1,1 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+A project from udemy course on advanced node by Stephen G.
