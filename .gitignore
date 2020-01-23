@@ -3,4 +3,5 @@ node_modules
 nohup.out
 .DS_Store
 config/dev.js
+config/ci.js
 dev.js
